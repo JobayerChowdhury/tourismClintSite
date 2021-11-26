@@ -1,0 +1,28 @@
+.change-color{
+    background-color: #333333;
+}
+
+.style-nav{
+    color:white;
+    font-weight: bolder;
+}
+
+.style-nav:hover{
+    color: thistle;
+    font-size: 18px;
+}
+.travelto{
+    font-size: 36px;
+}
+.style-nav-logout{
+    color:white;
+    font-weight: bolder;
+    padding: 5px;
+    background-color: teal;
+    border-radius: 12px;
+}
+.login-nav-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
